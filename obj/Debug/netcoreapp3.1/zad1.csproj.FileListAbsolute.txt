@@ -1,0 +1,13 @@
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\zad1.exe
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\zad1.deps.json
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.json
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.dev.json
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\zad1.dll
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\zad1.pdb
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.csproj.CoreCompileInputs.cache
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.AssemblyInfoInputs.cache
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.AssemblyInfo.cs
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.dll
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.pdb
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.genruntimeconfig.cache
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\zad1.csprojAssemblyReference.cache

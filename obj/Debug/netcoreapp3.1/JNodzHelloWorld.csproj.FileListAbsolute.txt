@@ -1,0 +1,13 @@
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\JNodzHelloWorld.exe
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\JNodzHelloWorld.deps.json
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\JNodzHelloWorld.runtimeconfig.json
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\JNodzHelloWorld.runtimeconfig.dev.json
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\JNodzHelloWorld.dll
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\bin\Debug\netcoreapp3.1\JNodzHelloWorld.pdb
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.csprojAssemblyReference.cache
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.csproj.CoreCompileInputs.cache
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.AssemblyInfoInputs.cache
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.AssemblyInfo.cs
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.dll
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.pdb
+E:\jnodz\Documents\IT\c_Sharp\JNodzHelloWorld\obj\Debug\netcoreapp3.1\JNodzHelloWorld.genruntimeconfig.cache
